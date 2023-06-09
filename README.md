@@ -4,7 +4,7 @@ Teste de carga com Jmeter
 # Jmeter Teste
 Neste teste realizo a criação de usuários e a consulta de usuários.
 
-As requisições são realizadas utilizando uma certa quantidade de usuários, validando o tempo de resposta da API e o sucesso das requisições.
+As requisições são realizadas utilizando uma certa quantidade de usuários, validando o tempo de resposta da API e o status das requisições.
 
 # API utilizada
 Utilizo a API: https://reqres.in/
