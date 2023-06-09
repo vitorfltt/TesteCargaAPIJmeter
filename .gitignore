@@ -29,3 +29,6 @@ jmeter-plugins/
 
 # Ignorar diretório de bibliotecas adicionais
 lib/ext/
+
+bin/
+
