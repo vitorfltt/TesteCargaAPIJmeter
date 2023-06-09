@@ -1,3 +1,5 @@
+<img src="https://www.influxdata.com/wp-content/uploads/Apache-JMeter.jpg" alt="k6">
+
 # TesteCargaAPIJmeter
 Teste de carga com Jmeter
 
