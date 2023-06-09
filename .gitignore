@@ -1,0 +1,31 @@
+# Ignorar arquivos de relatórios e logs
+*.jtl
+*.log
+*.out
+*.jmx.log
+
+# Ignorar arquivos temporários
+jmeter.save.*
+
+# Ignorar arquivos de configuração local
+jmeter.properties
+system.properties
+user.properties
+
+# Ignorar arquivos de resultados e métricas
+report-output/
+results/
+dashboard/
+
+# Ignorar backups de arquivos
+*~
+
+# Ignorar pastas de cache e temporárias
+.cache/
+temp/
+
+# Ignorar diretório de plugins do JMeter
+jmeter-plugins/
+
+# Ignorar diretório de bibliotecas adicionais
+lib/ext/
