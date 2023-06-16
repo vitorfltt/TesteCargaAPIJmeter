@@ -1,7 +1,7 @@
 <img src="https://www.influxdata.com/wp-content/uploads/Apache-JMeter.jpg" alt="k6">
 
 # TesteCargaAPIJmeter
-Teste de carga com Jmeter
+Teste de performance com Jmeter
 
 # Jmeter Teste
 Neste teste realizo a criação de usuários e a consulta de usuários.
